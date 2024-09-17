@@ -1,4 +1,4 @@
-'''
+```
 nano service.yaml
 kubectl apply -f service.yaml
 nano service.yaml
@@ -15,4 +15,4 @@ sudo kubectl describe pods my-deployment-cfb4dd9fc-5sct9
 sudo kubectl describe pods my-deployment-cfb4dd9fc-5sct9
 minicube dashboard
 minikube dashboard
-'''
+```
